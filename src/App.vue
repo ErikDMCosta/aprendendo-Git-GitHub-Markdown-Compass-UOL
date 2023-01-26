@@ -7,6 +7,7 @@
     <life-cycle />
     <Info />
     <Pessoa />
+    <MostrarVideo />
   </div>
 </template>
 
@@ -16,6 +17,7 @@ import PrimeiroComponente from './components/PrimeiroComponente.vue'
 import LifeCycle from './components/LifeCycle.vue'
 import Pessoa from './components/Pessoa.vue'
 import Info from './components/Info.vue'
+import MostrarVideo from './components/MostrarVideo.vue'
   export default {
       name: 'App',
       components: {
@@ -24,6 +26,7 @@ import Info from './components/Info.vue'
         Info,
         Header,
         Pessoa,
+        MostrarVideo,
       },
       data() {
         return {
