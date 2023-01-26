@@ -73,7 +73,7 @@ yarn install
 | A    | 10/05/2020 |
 | A    | 10/05/2020 |
 
-[Link para algum lugar](https://github.com "GitHub")
+[Link para algum lugar](https://github.com/ErikDMCosta/aprendendo-Git-GitHub-Markdown-Compass-UOL "GitHub")
 
 #### Alguns emojis
 |                          |      ico      | shortcode       |        ico        | shortcode           |                           |
